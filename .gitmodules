@@ -1,0 +1,48 @@
+[submodule "CybroAddons"]
+	path = CybroAddons
+	url = https://github.com/RLCO/CybroAddons.git
+	branch = 12.0
+[submodule "OpenHRMS"]
+	path = OpenHRMS
+	url = https://github.com/RLCO/OpenHRMS.git
+	branch = 12.0
+[submodule "odoo-addons-company-wizard"]
+	path = odoo-addons-company-wizard
+	url = https://github.com/RLCO/odoo-addons-company-wizard.git
+	branch = 12.0
+[submodule "odoo-shopinvader"]
+	path = odoo-shopinvader
+	url = https://github.com/RLCO/odoo-shopinvader.git
+	branch = 12.0
+[submodule "odoo-shopinvader-payment"]
+	path = odoo-shopinvader-payment
+	url = https://github.com/RLCO/odoo-shopinvader-payment.git
+	branch = 12.0
+[submodule "odoo-usability"]
+	path = odoo-usability
+	url = https://github.com/RLCO/odoo-usability.git
+	branch = 12.0
+[submodule "odoo-viewer-groups"]
+	path = odoo-viewer-groups
+	url = https://github.com/RLCO/odoo-viewer-groups.git
+	branch = 12.0
+[submodule "odoo_addons"]
+	path = odoo_addons
+	url = https://github.com/RLCO/odoo_addons.git
+	branch = 12.0
+[submodule "ingadhoc_website"]
+	path = ingadhoc_website
+	url = https://github.com/RLCO/ingadhoc_website.git
+	branch = 12.0
+[submodule "avoinsystems-addons"]
+	path = avoinsystems-addons
+	url = https://github.com/RLCO/avoinsystems-addons.git
+	branch = 12.0
+[submodule "gym"]
+	path = gym
+	url = https://github.com/RLCO/gym.git
+	branch = app-gym_management
+[submodule "send_sms_task"]
+	path = send_sms_task
+	url = https://github.com/RLCO/send_sms_task.git
+	branch = 12.0
