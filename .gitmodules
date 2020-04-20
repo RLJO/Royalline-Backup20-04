@@ -122,3 +122,7 @@
 	path = Royalline
 	url = https://github.com/RLJO/Royalline.git
 	branch = From-31To60
+[submodule "61-90"]
+	path = 61-90
+	url = https://github.com/RLJO/Royalline.git
+	branch = From-61To90
