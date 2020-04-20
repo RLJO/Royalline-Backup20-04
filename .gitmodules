@@ -2,3 +2,7 @@
 	path = 01-30
 	url = https://github.com/RLJO/Royalline.git
 	branch = From-1To30
+[submodule "31-60"]
+	path = 31-60
+	url = https://github.com/RLJO/Royalline.git
+	branch = From-31To60
