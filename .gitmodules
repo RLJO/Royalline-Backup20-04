@@ -118,3 +118,7 @@
 	path = connector
 	url = https://github.com/RLCO/connector.git
 	branch = 12.0
+[submodule "Royalline"]
+	path = Royalline
+	url = https://github.com/RLJO/Royalline.git
+	branch = From-31To60
